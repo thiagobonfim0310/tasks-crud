@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thiagobonfim0310/tasks-crud/issues"
   },
-  "homepage": "https://github.com/thiagobonfim0310/tasks-crud#readme"
+  "homepage": "https://github.com/thiagobonfim0310/tasks-crud#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
 }
